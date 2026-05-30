@@ -493,4 +493,12 @@ footer h2{
   text-align: center;
 }
 
+/* <===================RSVP BUTTON===================> */
+
+a.huge-btn {
+  text-decoration: none;
+  color: #212121;
+}
+
+
 
