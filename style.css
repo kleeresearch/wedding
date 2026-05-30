@@ -476,3 +476,21 @@ footer h2{
     font-size: 2Srem;
     font-weight: normal;
 }
+
+
+/* <===================WATCH BUTTON===================> */
+
+.quote .author {
+  margin: 20px 0 30px 0;
+}
+
+.quote .watch-btn {
+  display: block;
+  width: fit-content;
+  margin: 0 auto 10vh auto !important;
+  text-decoration: none;
+  color: #212121;
+  text-align: center;
+}
+
+
