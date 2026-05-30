@@ -179,7 +179,7 @@ a:hover{
     justify-content: space-between;
 }
 .home-img{
-    background-image: url(https://drive.google.com/file/d/1Dll3_vTAEuKAYlOOzYipTCmrQAsUOUpG/view?usp=drive_link);
+    background-image: url(https://drive.google.com/uc?export=view&id=1Dll3_vTAEuKAYlOOzYipTCmrQAsUOUpG);
     background-size: cover;
     background-position: center;
 }
@@ -225,7 +225,7 @@ a:hover{
     margin: 8vh 0;
 }
 .timeline-img{
-    background-image: url(https://drive.google.com/file/d/1hlDjVMW7RH_EoZb_HsGEKVGh0Uk1pTUz/view?usp=drive_link);
+    background-image: url(https://drive.google.com/uc?export=view&id=1hlDjVMW7RH_EoZb_HsGEKVGh0Uk1pTUz);
     height: 70vh;
     width: 30vw;
     background-position: center;
@@ -310,15 +310,15 @@ a:hover{
     background-position: center;
 }
 .gallery-img:nth-child(1){
-    background-image: url(https://drive.google.com/file/d/191DadqJMofEImoTffq7ZJd1n9E6K98dP/view?usp=drive_link);
+    background-image: url(https://drive.google.com/uc?export=view&id=191DadqJMofEImoTffq7ZJd1n9E6K98dP);
     background-position-x: right;
 }
 .gallery-img:nth-child(3){
-    background-image: url(https://drive.google.com/file/d/1VLF0Hz6Q6ie7dJU-WFalIRwRPsHzngo2/view?usp=drive_link);
+    background-image: url(https://drive.google.com/uc?export=view&id=1VLF0Hz6Q6ie7dJU-WFalIRwRPsHzngo2);
 }
 .gallery-img:nth-child(2){
     background-position-y: top;
-    background-image: url(https://drive.google.com/file/d/1p6oIJbBqldTFK07cTb3_cbZqNI23N03K/view?usp=drive_link);
+    background-image: url(https://drive.google.com/uc?export=view&id=1p6oIJbBqldTFK07cTb3_cbZqNI23N03K);
 }
 @media (max-width:1000px){
     .gallery{
@@ -362,7 +362,7 @@ a:hover{
 .hands{
     height: 120vh;
     width: 100%;
-    background-image: url(https://drive.google.com/file/d/1o7qXNqnV3uAILiWMlGvjKoPWJe0-npGf/view?usp=drive_link);
+    background-image: url(https://drive.google.com/uc?export=view&id=1o7qXNqnV3uAILiWMlGvjKoPWJe0-npGf);
     background-size: cover;
     background-position-y: center;
     background-attachment: fixed;
@@ -418,7 +418,7 @@ a:hover{
     display: block;
     height: 100vh;
     width: 40vw;
-    background-image: url(https://drive.google.com/file/d/18oJ1U72xYAsIHgp2pen381Kh8WWcyyAf/view?usp=drive_link);
+    background-image: url(https://drive.google.com/uc?export=view&id=18oJ1U72xYAsIHgp2pen381Kh8WWcyyAf);
     background-size: cover;
     background-position-y: top;
     background-repeat: no-repeat;
