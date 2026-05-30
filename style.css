@@ -521,4 +521,16 @@ a.huge-btn {
   margin: 30px 0;
 }
 
+/* <===================LAST RSVP BUTTON===================> */
 
+.parting-message {
+  text-align: center;
+}
+
+.parting-message .huge-btn {
+  display: block;
+  width: fit-content;
+  margin: 8vh auto 0 auto !important;
+  text-decoration: none;
+  color: #212121;
+}
